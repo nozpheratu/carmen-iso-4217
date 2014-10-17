@@ -8,5 +8,5 @@ RSpec::Core::RakeTask.new(:spec)
 task default: :spec
 
 task :console do
-  exec 'pry -r iso_4217 -I ./lib/carmen'
+  exec 'pry -r carmen_iso_4217 -I ./lib'
 end

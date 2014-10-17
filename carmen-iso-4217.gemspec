@@ -1,11 +1,11 @@
 # coding: utf-8
-lib = File.expand_path('../lib/carmen', __FILE__)
+lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'iso_4217/version'
+require 'carmen_iso_4217/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'carmen-iso-4217'
-  spec.version       = Carmen::ISO4217::VERSION
+  spec.version       = CarmenISO4217::VERSION
   spec.authors       = ['Cyle']
   spec.email         = ['cylehunter33@gmail.com']
   spec.summary       = 'Adds ISO 4217 currency names to Carmen::Country'

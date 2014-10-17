@@ -1,8 +1,8 @@
 require 'carmen'
-require 'carmen/iso_4217/version'
+require 'carmen_iso_4217/version'
 
 module Carmen
-  locale_path = File.expand_path('../../../locale', __FILE__)
+  locale_path = File.expand_path('../../locale', __FILE__)
   i18n_backend.append_locale_path(locale_path)
 
   class Country
@@ -11,6 +11,6 @@ module Carmen
     end
   end
 
-  module ISO4217
+  module CarmenISO4217
   end
 end
