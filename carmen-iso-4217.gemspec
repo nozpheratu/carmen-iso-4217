@@ -1,7 +1,7 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'carmen_iso_4217/version'
+require 'carmen-iso-4217/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'carmen-iso-4217'

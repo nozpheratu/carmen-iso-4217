@@ -3,3 +3,6 @@ Style/Documentation:
 
 Style/RaiseArgs:
   Enabled: false
+
+Style/FileName:
+  Enabled: false

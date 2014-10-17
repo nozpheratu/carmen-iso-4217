@@ -1,4 +1,4 @@
-require 'carmen_iso_4217'
+require 'carmen-iso-4217'
 
 RSpec.configure do |config|
   config.mock_with :rspec do |mocks|

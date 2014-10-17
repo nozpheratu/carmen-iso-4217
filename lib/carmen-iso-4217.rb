@@ -1,5 +1,5 @@
 require 'carmen'
-require 'carmen_iso_4217/version'
+require 'carmen-iso-4217/version'
 
 module Carmen
   locale_path = File.expand_path('../../locale', __FILE__)
