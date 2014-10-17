@@ -1,0 +1,503 @@
+---
+en:
+  world:
+    ad:
+      currency_code: EUR
+    ae:
+      currency_code: AED
+    af:
+      currency_code: AFN
+    ag:
+      currency_code: XCD
+    ai:
+      currency_code: XCD
+    al:
+      currency_code: ALL
+    am:
+      currency_code: AMD
+    ao:
+      currency_code: AOA
+    aq:
+      currency_code: ''
+    ar:
+      currency_code: ARS
+    as:
+      currency_code: USD
+    at:
+      currency_code: EUR
+    au:
+      currency_code: AUD
+    aw:
+      currency_code: AWG
+    ax:
+      currency_code: EUR
+    az:
+      currency_code: AZN
+    ba:
+      currency_code: BAM
+    bb:
+      currency_code: BBD
+    bd:
+      currency_code: BDT
+    be:
+      currency_code: EUR
+    bf:
+      currency_code: XOF
+    bg:
+      currency_code: BGN
+    bh:
+      currency_code: BHD
+    bi:
+      currency_code: BIF
+    bj:
+      currency_code: XOF
+    bl:
+      currency_code: EUR
+    bm:
+      currency_code: BMD
+    bn:
+      currency_code: BND
+    bo:
+      currency_code: BOB
+    bq:
+      currency_code: USD
+    br:
+      currency_code: BRL
+    bs:
+      currency_code: BSD
+    bt:
+      currency_code: BTN
+    bv:
+      currency_code: NOK
+    bw:
+      currency_code: BWP
+    by:
+      currency_code: BYR
+    bz:
+      currency_code: BZD
+    ca:
+      currency_code: CAD
+    cc:
+      currency_code: AUD
+    cd:
+      currency_code: CDF
+    cf:
+      currency_code: XAF
+    cg:
+      currency_code: XAF
+    ch:
+      currency_code: CHF
+    ci:
+      currency_code: XOF
+    ck:
+      currency_code: NZD
+    cl:
+      currency_code: CLP
+    cm:
+      currency_code: XAF
+    cn:
+      currency_code: CNY
+    co:
+      currency_code: COP
+    cr:
+      currency_code: CRC
+    cu:
+      currency_code: CUP
+    cv:
+      currency_code: CVE
+    cw:
+      currency_code: ANG
+    cx:
+      currency_code: AUD
+    cy:
+      currency_code: EUR
+    cz:
+      currency_code: CZK
+    de:
+      currency_code: EUR
+    dj:
+      currency_code: DJF
+    dk:
+      currency_code: DKK
+    dm:
+      currency_code: XCD
+    do:
+      currency_code: DOP
+    dz:
+      currency_code: DZD
+    ec:
+      currency_code: USD
+    ee:
+      currency_code: EUR
+    eg:
+      currency_code: EGP
+    eh:
+      currency_code: MAD
+    er:
+      currency_code: ERN
+    es:
+      currency_code: EUR
+    et:
+      currency_code: ETB
+    fi:
+      currency_code: EUR
+    fj:
+      currency_code: FJD
+    fk:
+      currency_code: FKP
+    fm:
+      currency_code: USD
+    fo:
+      currency_code: DKK
+    fr:
+      currency_code: EUR
+    ga:
+      currency_code: XAF
+    gb:
+      currency_code: GBP
+    gd:
+      currency_code: XCD
+    ge:
+      currency_code: GEL
+    gf:
+      currency_code: EUR
+    gg:
+      currency_code: GBP
+    gh:
+      currency_code: GHS
+    gi:
+      currency_code: GIP
+    gl:
+      currency_code: DKK
+    gm:
+      currency_code: GMD
+    gn:
+      currency_code: GNF
+    gp:
+      currency_code: EUR
+    gq:
+      currency_code: XAF
+    gr:
+      currency_code: EUR
+    gs:
+      currency_code: GBP
+    gt:
+      currency_code: GTQ
+    gu:
+      currency_code: USD
+    gw:
+      currency_code: XOF
+    gy:
+      currency_code: GYD
+    hk:
+      currency_code: HKD
+    hm:
+      currency_code: AUD
+    hn:
+      currency_code: HNL
+    hr:
+      currency_code: HRK
+    ht:
+      currency_code: HTG
+    hu:
+      currency_code: HUF
+    id:
+      currency_code: IDR
+    ie:
+      currency_code: EUR
+    il:
+      currency_code: ILS
+    im:
+      currency_code: GBP
+    in:
+      currency_code: INR
+    io:
+      currency_code: USD
+    iq:
+      currency_code: IQD
+    ir:
+      currency_code: IRR
+    is:
+      currency_code: ISK
+    it:
+      currency_code: EUR
+    je:
+      currency_code: GBP
+    jm:
+      currency_code: JMD
+    jo:
+      currency_code: JOD
+    jp:
+      currency_code: JPY
+    ke:
+      currency_code: KES
+    kg:
+      currency_code: KGS
+    kh:
+      currency_code: KHR
+    ki:
+      currency_code: AUD
+    km:
+      currency_code: KMF
+    kn:
+      currency_code: XCD
+    kp:
+      currency_code: KPW
+    kr:
+      currency_code: KRW
+    kw:
+      currency_code: KWD
+    ky:
+      currency_code: KYD
+    kz:
+      currency_code: KZT
+    la:
+      currency_code: LAK
+    lb:
+      currency_code: LBP
+    lc:
+      currency_code: XCD
+    li:
+      currency_code: CHF
+    lk:
+      currency_code: LKR
+    lr:
+      currency_code: LRD
+    ls:
+      currency_code: LSL
+    lt:
+      currency_code: LTL
+    lu:
+      currency_code: EUR
+    lv:
+      currency_code: EUR
+    ly:
+      currency_code: LYD
+    ma:
+      currency_code: MAD
+    mc:
+      currency_code: EUR
+    md:
+      currency_code: MDL
+    me:
+      currency_code: EUR
+    mf:
+      currency_code: EUR
+    mg:
+      currency_code: MGA
+    mh:
+      currency_code: USD
+    mk:
+      currency_code: MKD
+    ml:
+      currency_code: XOF
+    mm:
+      currency_code: MMK
+    mn:
+      currency_code: MNT
+    mo:
+      currency_code: MOP
+    mp:
+      currency_code: USD
+    mq:
+      currency_code: EUR
+    mr:
+      currency_code: MRO
+    ms:
+      currency_code: XCD
+    mt:
+      currency_code: EUR
+    mu:
+      currency_code: MUR
+    mv:
+      currency_code: MVR
+    mw:
+      currency_code: MWK
+    mx:
+      currency_code: MXN
+    my:
+      currency_code: MYR
+    mz:
+      currency_code: MZN
+    na:
+      currency_code: NAD
+    nc:
+      currency_code: XPF
+    ne:
+      currency_code: XOF
+    nf:
+      currency_code: AUD
+    ng:
+      currency_code: NGN
+    ni:
+      currency_code: NIO
+    nl:
+      currency_code: EUR
+    'no':
+      currency_code: NOK
+    np:
+      currency_code: NPR
+    nr:
+      currency_code: AUD
+    nu:
+      currency_code: NZD
+    nz:
+      currency_code: NZD
+    om:
+      currency_code: OMR
+    pa:
+      currency_code: PAB
+    pe:
+      currency_code: PEN
+    pf:
+      currency_code: XPF
+    pg:
+      currency_code: PGK
+    ph:
+      currency_code: PHP
+    pk:
+      currency_code: PKR
+    pl:
+      currency_code: PLN
+    pm:
+      currency_code: EUR
+    pn:
+      currency_code: NZD
+    pr:
+      currency_code: USD
+    ps:
+      currency_code: ILS
+    pt:
+      currency_code: EUR
+    pw:
+      currency_code: USD
+    py:
+      currency_code: PYG
+    qa:
+      currency_code: QAR
+    re:
+      currency_code: EUR
+    ro:
+      currency_code: RON
+    rs:
+      currency_code: RSD
+    ru:
+      currency_code: RUB
+    rw:
+      currency_code: RWF
+    sa:
+      currency_code: SAR
+    sb:
+      currency_code: SBD
+    sc:
+      currency_code: SCR
+    sd:
+      currency_code: SDG
+    se:
+      currency_code: SEK
+    sg:
+      currency_code: SGD
+    sh:
+      currency_code: SHP
+    si:
+      currency_code: EUR
+    sj:
+      currency_code: NOK
+    sk:
+      currency_code: EUR
+    sl:
+      currency_code: SLL
+    sm:
+      currency_code: EUR
+    sn:
+      currency_code: XOF
+    so:
+      currency_code: SOS
+    sr:
+      currency_code: SRD
+    ss:
+      currency_code: SSP
+    st:
+      currency_code: STD
+    sv:
+      currency_code: USD
+    sx:
+      currency_code: ANG
+    sy:
+      currency_code: SYP
+    sz:
+      currency_code: SZL
+    tc:
+      currency_code: USD
+    td:
+      currency_code: XAF
+    tf:
+      currency_code: EUR
+    tg:
+      currency_code: XOF
+    th:
+      currency_code: THB
+    tj:
+      currency_code: TJS
+    tk:
+      currency_code: NZD
+    tl:
+      currency_code: USD
+    tm:
+      currency_code: TMT
+    tn:
+      currency_code: TND
+    to:
+      currency_code: TOP
+    tr:
+      currency_code: TRY
+    tt:
+      currency_code: TTD
+    tv:
+      currency_code: AUD
+    tw:
+      currency_code: TWD
+    tz:
+      currency_code: TZS
+    ua:
+      currency_code: UAH
+    ug:
+      currency_code: UGX
+    um:
+      currency_code: USD
+    us:
+      currency_code: USD
+    uy:
+      currency_code: UYU
+    uz:
+      currency_code: UZS
+    va:
+      currency_code: EUR
+    vc:
+      currency_code: XCD
+    ve:
+      currency_code: VEF
+    vg:
+      currency_code: USD
+    vi:
+      currency_code: USD
+    vn:
+      currency_code: VND
+    vu:
+      currency_code: VUV
+    wf:
+      currency_code: XPF
+    ws:
+      currency_code: WST
+    xk:
+      currency_code: EUR
+    ye:
+      currency_code: YER
+    yt:
+      currency_code: EUR
+    za:
+      currency_code: ZAR
+    zm:
+      currency_code: ZMW
+    zw:
+      currency_code: ZWL
