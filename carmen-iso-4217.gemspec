@@ -1,7 +1,7 @@
 # coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
+lib = File.expand_path('../lib/carmen', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'carmen/iso_4217/version'
+require 'iso_4217/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'carmen-iso-4217'
@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(/^bin/) { |f| File.basename(f) }
   spec.test_files    = spec.files.grep(/^(test|spec|features)/)
-  spec.require_paths = ['lib/carmen']
+  spec.require_paths = ['lib']
 
   spec.add_dependency 'carmen'
 
