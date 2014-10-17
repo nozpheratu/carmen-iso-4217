@@ -1,6 +1,6 @@
 # Carmen ISO 4217
 
-Adds a new `currency_code` method to the [Carmen](https://github.com/jim/carmen) gem's Country object. This will return the ISO 4217 currency code associated with the country. Currency codes are retrieved from the [GeoNames[(http://www.geonames.org/) webservice using the [geonames_api](https://github.com/buytruckload/geonames_api) gem.
+Adds a new `currency_code` method to the [Carmen](https://github.com/jim/carmen) gem's Country object. This will return the ISO 4217 currency code associated with the country. Currency codes are retrieved from the [GeoNames](http://www.geonames.org/) webservice using the [geonames_api](https://github.com/buytruckload/geonames_api) gem.
 
 ## Installation
 
