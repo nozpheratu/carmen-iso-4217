@@ -21,7 +21,7 @@ Or install it yourself as:
 Fetch a Carmen::Country object and call the new currency_code method on it:
 ```ruby
 country = Carmen::Country.coded('ca')
-country.country_code #=> 'CAD'
+country.currency_code #=> 'CAD'
 ```
 
 ## Contributing
