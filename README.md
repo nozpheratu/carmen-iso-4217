@@ -1,4 +1,4 @@
-# Carmen::Iso::4217
+# Carmen ISO 4217
 
 TODO: Write a gem description
 
@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Fetch a Carmen::Country object and call the new currency_code method on it:
+```ruby
+country = Carmen::Country.coded('ca')
+country.country_code #=> 'CAD'
+```
 
 ## Contributing
 
