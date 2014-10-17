@@ -10,7 +10,7 @@ def write(data)
 end
 
 task :import do
-  puts "Enter your GeoNames WebServices username:"
+  puts 'Enter your GeoNames WebServices username:'
   name = $stdin.gets.chomp
   GeoNamesAPI.username = name if name.present?
   data = { 'en' => { 'world' => {} } }
