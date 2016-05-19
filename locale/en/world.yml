@@ -30,6 +30,7 @@ en:
       currency_symb: 'euro'
     au:
       currency_code: AUD
+      currency_symb: 'dollar'
     aw:
       currency_code: AWG
     ax:
@@ -84,6 +85,7 @@ en:
       currency_code: BZD
     ca:
       currency_code: CAD
+      currency_symb: 'dollar'
     cc:
       currency_code: AUD
     cd:
