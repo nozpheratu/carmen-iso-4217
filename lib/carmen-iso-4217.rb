@@ -9,6 +9,11 @@ module Carmen
     def currency_code
       Carmen.i18n_backend.translate(path('currency_code'))
     end
+
+    def currency_symb
+      Carmen.i18n_backend.translate(path('currency_symb'))
+    end
+
   end
 
   module CarmenISO4217
