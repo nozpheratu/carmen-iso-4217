@@ -3,6 +3,7 @@ en:
   world:
     ad:
       currency_code: EUR
+      currency_symb: 'euro'
     ae:
       currency_code: AED
     af:
@@ -23,14 +24,18 @@ en:
       currency_code: ARS
     as:
       currency_code: USD
+      currency_symb: 'dollar'
     at:
       currency_code: EUR
+      currency_symb: 'euro'
     au:
       currency_code: AUD
+      currency_symb: 'dollar'
     aw:
       currency_code: AWG
     ax:
       currency_code: EUR
+      currency_symb: 'euro'
     az:
       currency_code: AZN
     ba:
@@ -41,6 +46,7 @@ en:
       currency_code: BDT
     be:
       currency_code: EUR
+      currency_symb: 'euro'
     bf:
       currency_code: XOF
     bg:
@@ -53,6 +59,7 @@ en:
       currency_code: XOF
     bl:
       currency_code: EUR
+      currency_symb: 'euro'
     bm:
       currency_code: BMD
     bn:
@@ -61,6 +68,7 @@ en:
       currency_code: BOB
     bq:
       currency_code: USD
+      currency_symb: 'dollar'
     br:
       currency_code: BRL
     bs:
@@ -77,6 +85,7 @@ en:
       currency_code: BZD
     ca:
       currency_code: CAD
+      currency_symb: 'dollar'
     cc:
       currency_code: AUD
     cd:
@@ -111,10 +120,12 @@ en:
       currency_code: AUD
     cy:
       currency_code: EUR
+      currency_symb: 'euro'
     cz:
       currency_code: CZK
     de:
       currency_code: EUR
+      currency_symb: 'euro'
     dj:
       currency_code: DJF
     dk:
@@ -127,8 +138,10 @@ en:
       currency_code: DZD
     ec:
       currency_code: USD
+      currency_symb: 'dollar'
     ee:
       currency_code: EUR
+      currency_symb: 'euro'
     eg:
       currency_code: EGP
     eh:
@@ -137,20 +150,24 @@ en:
       currency_code: ERN
     es:
       currency_code: EUR
+      currency_symb: 'euro'
     et:
       currency_code: ETB
     fi:
       currency_code: EUR
+      currency_symb: 'euro'
     fj:
       currency_code: FJD
     fk:
       currency_code: FKP
     fm:
       currency_code: USD
+      currency_symb: 'dollar'
     fo:
       currency_code: DKK
     fr:
       currency_code: EUR
+      currency_symb: 'euro'
     ga:
       currency_code: XAF
     gb:
@@ -161,6 +178,7 @@ en:
       currency_code: GEL
     gf:
       currency_code: EUR
+      currency_symb: 'euro'
     gg:
       currency_code: GBP
     gh:
@@ -175,16 +193,19 @@ en:
       currency_code: GNF
     gp:
       currency_code: EUR
+      currency_symb: 'euro'
     gq:
       currency_code: XAF
     gr:
       currency_code: EUR
+      currency_symb: 'euro'
     gs:
       currency_code: GBP
     gt:
       currency_code: GTQ
     gu:
       currency_code: USD
+      currency_symb: 'dollar'
     gw:
       currency_code: XOF
     gy:
@@ -205,6 +226,7 @@ en:
       currency_code: IDR
     ie:
       currency_code: EUR
+      currency_symb: 'euro'
     il:
       currency_code: ILS
     im:
@@ -213,6 +235,7 @@ en:
       currency_code: INR
     io:
       currency_code: USD
+      currency_symb: 'dollar'
     iq:
       currency_code: IQD
     ir:
@@ -221,6 +244,7 @@ en:
       currency_code: ISK
     it:
       currency_code: EUR
+      currency_symb: 'euro'
     je:
       currency_code: GBP
     jm:
@@ -229,6 +253,7 @@ en:
       currency_code: JOD
     jp:
       currency_code: JPY
+      currency_symb: 'yen'
     ke:
       currency_code: KES
     kg:
@@ -269,24 +294,31 @@ en:
       currency_code: EUR
     lu:
       currency_code: EUR
+      currency_symb: 'euro'
     lv:
       currency_code: EUR
+      currency_symb: 'euro'
     ly:
       currency_code: LYD
     ma:
       currency_code: MAD
+      currency_symb: 'dirham'
     mc:
       currency_code: EUR
+      currency_symb: 'euro'
     md:
       currency_code: MDL
     me:
       currency_code: EUR
+      currency_symb: 'euro'
     mf:
       currency_code: EUR
+      currency_symb: 'euro'
     mg:
       currency_code: MGA
     mh:
       currency_code: USD
+      currency_symb: 'dollar'
     mk:
       currency_code: MKD
     ml:
@@ -301,12 +333,14 @@ en:
       currency_code: USD
     mq:
       currency_code: EUR
+      currency_symb: 'euro'
     mr:
       currency_code: MRO
     ms:
       currency_code: XCD
     mt:
       currency_code: EUR
+      currency_symb: 'euro'
     mu:
       currency_code: MUR
     mv:
@@ -333,6 +367,7 @@ en:
       currency_code: NIO
     nl:
       currency_code: EUR
+      currency_symb: 'euro'
     'no':
       currency_code: NOK
     np:
@@ -361,22 +396,27 @@ en:
       currency_code: PLN
     pm:
       currency_code: EUR
+      currency_symb: 'euro'
     pn:
       currency_code: NZD
     pr:
       currency_code: USD
+      currency_symb: 'dollar'
     ps:
       currency_code: ILS
     pt:
       currency_code: EUR
+      currency_symb: 'euro'
     pw:
       currency_code: USD
+      currency_symb: 'dollar'
     py:
       currency_code: PYG
     qa:
       currency_code: QAR
     re:
       currency_code: EUR
+      currency_symb: 'euro'
     ro:
       currency_code: RON
     rs:
@@ -401,14 +441,17 @@ en:
       currency_code: SHP
     si:
       currency_code: EUR
+      currency_symb: 'euro'
     sj:
       currency_code: NOK
     sk:
       currency_code: EUR
+      currency_symb: 'euro'
     sl:
       currency_code: SLL
     sm:
       currency_code: EUR
+      currency_symb: 'euro'
     sn:
       currency_code: XOF
     so:
@@ -421,6 +464,7 @@ en:
       currency_code: STD
     sv:
       currency_code: USD
+      currency_symb: 'dollar'
     sx:
       currency_code: ANG
     sy:
@@ -429,10 +473,12 @@ en:
       currency_code: SZL
     tc:
       currency_code: USD
+      currency_symb: 'dollar'
     td:
       currency_code: XAF
     tf:
       currency_code: EUR
+      currency_symb: 'euro'
     tg:
       currency_code: XOF
     th:
@@ -443,6 +489,7 @@ en:
       currency_code: NZD
     tl:
       currency_code: USD
+      currency_symb: 'dollar'
     tm:
       currency_code: TMT
     tn:
@@ -465,22 +512,27 @@ en:
       currency_code: UGX
     um:
       currency_code: USD
+      currency_symb: 'dollar'
     us:
       currency_code: USD
+      currency_symb: 'dollar'
     uy:
       currency_code: UYU
     uz:
       currency_code: UZS
     va:
       currency_code: EUR
+      currency_symb: 'euro'
     vc:
       currency_code: XCD
     ve:
       currency_code: VEF
     vg:
       currency_code: USD
+      currency_symb: 'dollar'
     vi:
       currency_code: USD
+      currency_symb: 'dollar'
     vn:
       currency_code: VND
     vu:
@@ -491,10 +543,12 @@ en:
       currency_code: WST
     xk:
       currency_code: EUR
+      currency_symb: 'euro'
     ye:
       currency_code: YER
     yt:
       currency_code: EUR
+      currency_symb: 'euro'
     za:
       currency_code: ZAR
     zm:
