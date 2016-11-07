@@ -302,6 +302,7 @@ en:
       currency_code: LYD
     ma:
       currency_code: MAD
+      currency_symb: 'dirham'
     mc:
       currency_code: EUR
       currency_symb: 'euro'
